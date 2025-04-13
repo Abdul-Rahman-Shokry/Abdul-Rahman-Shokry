@@ -1,6 +1,6 @@
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Backend with Django, Frontend with react**
+- 🌱 I’m currently learning **Backend PHP Laravel, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdul-Rahman-Shokry](https://github.com/Abdul-Rahman-Shokry)
 
