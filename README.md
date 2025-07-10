@@ -1,6 +1,6 @@
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Backend PHP Laravel, Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdul-Rahman-Shokry](https://github.com/Abdul-Rahman-Shokry)
 
