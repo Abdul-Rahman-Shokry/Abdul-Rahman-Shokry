@@ -1,6 +1,6 @@
-<h3 align="center">A passionate Software developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🌱 I’m currently learning **MERN Stack and Flutter**
+- 🌱 Flutter intern at **Growfet**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdul-Rahman-Shokry](https://github.com/Abdul-Rahman-Shokry)
 
